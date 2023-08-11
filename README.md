@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Himanshu Yadav</h1>
 <div align="center"> <img src="https://raw.githubusercontent.com/Himanshu9604/Himanshu9604/main/github-header-image.png"> </div>
-<h3 align="center">A Passionate Frontend Developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<h3 align="center">A Passionate MERN Stack Developer from India</h3>
+<img align="right" alt="Coding" width="600" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=himanshu9604&label=Profile%20views&color=0e75b6&style=flat" alt="himanshu9604" /> </p>
 
