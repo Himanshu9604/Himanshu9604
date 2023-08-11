@@ -29,7 +29,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=himanshu9604&" alt="himanshu9604" /></p>
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Himanshu9604&limit=5&theme=flat&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=Himanshu9604limit=5&theme=flat&combine_all_yearly_contributions=true)
 
 ### 📈 My GitHub Contributions
 ![Snake animation](https://github.com/Himanshu9604/Himanshu9604/blob/output/github-contribution-grid-snake.svg)
