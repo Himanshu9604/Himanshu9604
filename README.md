@@ -33,4 +33,4 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Himanshu9604&limit=5&theme=flat&combine_all_yearly_contributions=true)
 ### 📈 My GitHub Contributions
-![Snake animation](https://raw.githubusercontent.com/Himanshu9604/Himanshu9604/output/github-contribution-grid-snake.svg)
+![Snake animation](https://himanshu9604.github.io/Himanshu9604/output/github-contribution-grid-snake.svg)
