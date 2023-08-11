@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Himanshu Yadav</h1>
+<div align="center"> <img src="https://raw.githubusercontent.com/Himanshu9604/jaiswaladi246/main/banner2.png"> </div>
 <h3 align="center">A Passionate Frontend Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
@@ -29,8 +30,3 @@
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=himanshu9604" alt="himanshu9604" /></p>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Himanshu9604&limit=5&theme=flat&combine_all_yearly_contributions=true)
-
-### 📈 My GitHub Contributions
-![Snake animation](https://github.com/Himanshu9604/Himanshu9604/blob/output/github-contribution-grid-snake.svg)
