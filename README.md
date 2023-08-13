@@ -38,8 +38,31 @@
 
 ## GitHub Summary
 
-![GitHub Join Date](https://img.shields.io/badge/GitHub%20Join%20Date-April%202021-brightgreen)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=himanshu9604&layout=compact&theme=radical)
-![Overall Stats](https://github-readme-stats.vercel.app/api?username=himanshu9604&show_icons=true&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=himanshu9604&theme=radical)
-![Top Contributed Repositories](https://github-contributor-stats.vercel.app/api?username=Himanshu9604&limit=5&theme=radical&hide_border=true)
+<div align="center">
+  <img src="https://img.shields.io/badge/GitHub%20Join%20Date-April%202021-brightgreen" alt="GitHub Join Date">
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshu9604&layout=compact&theme=radical" alt="Top Languages">
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=himanshu9604&show_icons=true&theme=radical" alt="Overall Stats">
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=himanshu9604&theme=radical" alt="GitHub Streak">
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=Himanshu9604&limit=5&theme=radical&hide_border=true" alt="Top Contributed Repositories">
+</div>
+
