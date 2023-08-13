@@ -45,24 +45,31 @@
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshu9604&layout=compact&theme=radical" alt="Top Languages">
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshu9604&layout=compact&theme=radical">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshu9604&layout=compact&theme=radical" alt="Top Languages">
+  </a>
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=himanshu9604&show_icons=true&theme=radical" alt="Overall Stats">
+  <a href="https://github-readme-stats.vercel.app/api?username=himanshu9604&show_icons=true&theme=radical">
+    <img src="https://github-readme-stats.vercel.app/api?username=himanshu9604&show_icons=true&theme=radical" alt="Overall Stats">
+  </a>
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=himanshu9604&theme=radical" alt="GitHub Streak">
+  <a href="https://github-readme-streak-stats.herokuapp.com/?user=himanshu9604&theme=radical">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=himanshu9604&theme=radical" alt="GitHub Streak">
+  </a>
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Himanshu9604&limit=5&theme=radical&hide_border=true" alt="Top Contributed Repositories">
+  <a href="https://github-contributor-stats.vercel.app/api?username=Himanshu9604&limit=5&theme=radical&hide_border=true">
+    <img src="https://github-contributor-stats.vercel.app/api?username=Himanshu9604&limit=5&theme=radical&hide_border=true" alt="Top Contributed Repositories">
+  </a>
 </div>
-
