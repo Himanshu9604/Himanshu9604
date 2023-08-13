@@ -38,6 +38,7 @@
 
 ## GitHub Summary
 
+![GitHub Join Date](https://img.shields.io/badge/GitHub%20Join%20Date-April%202021-brightgreen)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=himanshu9604&layout=compact&theme=radical)
 ![Overall Stats](https://github-readme-stats.vercel.app/api?username=himanshu9604&show_icons=true&theme=radical)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=himanshu9604&theme=radical)
