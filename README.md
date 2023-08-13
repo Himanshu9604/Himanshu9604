@@ -37,4 +37,24 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Himanshu9604&limit=5&theme=flat&combine_all_yearly_contributions=true)
 
+<div id="github-summary"></div>
+<script>
+  // Function to fetch GitHub data and populate the summary
+  async function fetchGitHubSummary() {
+    const response = await fetch('https://api.github.com/users/your-Himanshu9604');
+    const data = await response.json();
+
+    const summaryDiv = document.getElementById('github-summary');
+    summaryDiv.innerHTML = `
+      <h3>GitHub Summary:</h3>
+      <p>Total Public Repositories: ${data.public_repos}</p>
+      <p>Followers: ${data.followers}</p>
+      <p>Following: ${data.following}</p>
+      <!-- You can add more information as needed -->
+    `;
+  }
+
+  // Call the function to fetch and display GitHub summary
+  fetchGitHubSummary();
+</script>
 
