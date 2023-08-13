@@ -45,53 +45,25 @@
 <br>
 
 <div align="center">
-  <a href="https://github-readme-stats.vercel.app/api?username=himanshu9604&show_icons=true&theme=merko">
-    <img src="https://github-readme-stats.vercel.app/api?username=himanshu9604&show_icons=true&theme=merko" alt="Overall Stats">
+  <a href="https://github-readme-stats.vercel.app/api?username=himanshu9604&show_icons=true&theme=react">
+    <img src="https://github-readme-stats.vercel.app/api?username=himanshu9604&show_icons=true&theme=react" alt="Overall Stats">
   </a>
 </div>
-
-<br>
 
 <div align="center">
-  <a href="https://github-readme-streak-stats.herokuapp.com/?user=himanshu9604&theme=merko">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=himanshu9604&theme=merko" alt="GitHub Streak">
+  <a href="https://github-readme-streak-stats.herokuapp.com/?user=himanshu9604&theme=react">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=himanshu9604&theme=react" alt="GitHub Streak">
   </a>
 </div>
-
-<br>
 
 <div align="center">
-  <a href="https://github-contributor-stats.vercel.app/api?username=Himanshu9604&limit=5&theme=merko&hide_border=true">
-    <img src="https://github-contributor-stats.vercel.app/api?username=Himanshu9604&limit=5&theme=merko&hide_border=true" alt="Top Contributed Repositories">
+  <a href="https://github-contributor-stats.vercel.app/api?username=Himanshu9604&limit=5&theme=react&hide_border=true">
+    <img src="https://github-contributor-stats.vercel.app/api?username=Himanshu9604&limit=5&theme=react&hide_border=true" alt="Top Contributed Repositories">
   </a>
 </div>
-
-<br>
 
 <div align="center">
-  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshu9604&layout=compact&theme=merko">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshu9604&layout=compact&theme=merko" alt="Top Languages">
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshu9604&layout=compact&theme=react">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshu9604&layout=compact&theme=react" alt="Top Languages">
   </a>
 </div>
-
-<br>
-
-### 🌱 Currently Learning
-
-I'm currently focusing on improving my skills in **Next.js** and exploring advanced topics in **React.js** and **Node.js**.
-
-### 💬 Contact Me
-
-Feel free to reach out to me at [himanshu960425@gmail.com](mailto:himanshu960425@gmail.com) if you'd like to connect or discuss anything tech-related.
-
-### 🔗 Connect with Me
-
-<p align="center">
-  <a href="https://linkedin.com/in/https://www.linkedin.com/in/himanshu-yadav-b32a26224/" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/https://www.instagram.com/himanshu8808yadav/" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-  </a>
-</p>
-
