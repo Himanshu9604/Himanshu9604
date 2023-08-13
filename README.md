@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Next-JS**
 
-- 👨‍💻 All of my projects are available at [https://new-portfolio-gitp.onrender.com/](https://new-portfolio-gitp.onrender.com/)
+- 👨‍💻 All of my projects are available at : [https://new-portfolio-gitp.onrender.com/](https://new-portfolio-gitp.onrender.com/)
 
 - 💬 Ask me about **HTML,CSS,JavaScript,React-JS,Redux-Toolkit,Node-JS,Express-JS,Mongo-DB**
 
