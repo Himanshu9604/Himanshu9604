@@ -39,11 +39,7 @@
 
 ## GitHub Summary
 
-## GitHub Summary
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=himanshu9604&show_icons=true&locale=en&layout=compact" alt="himanshu9604" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=himanshu9604&show_icons=true&locale=en" alt="himanshu9604" /></p>
-
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=himanshu9604" alt="himanshu9604" /></p>
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=himanshu9604&layout=compact&theme=radical)
+![Overall Stats](https://github-readme-stats.vercel.app/api?username=himanshu9604&show_icons=true&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=himanshu9604&theme=radical)
+![Top Contributed Repositories](https://github-contributor-stats.vercel.app/api?username=Himanshu9604&limit=5&theme=radical&hide_border=true)
