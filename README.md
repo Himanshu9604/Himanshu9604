@@ -39,13 +39,9 @@
 
 ## GitHub Summary
 
-## GitHub Summary
-
-## GitHub Summary
-
-[![Profile Details](https://raw.githubusercontent.com/Himanshu9604/Himanshu9604/master/profile-summary-card-output/default/0-profile-details.svg)](https://github.com/Himanshu9604/github-profile-summary-cards)
-[![Repos per Language](https://raw.githubusercontent.com/Himanshu9604/Himanshu9604/master/profile-summary-card-output/default/1-repos-per-language.svg)](https://github.com/Himanshu9604/github-profile-summary-cards)
-[![Most Commit Language](https://raw.githubusercontent.com/Himanshu9604/Himanshu9604/master/profile-summary-card-output/default/2-most-commit-language.svg)](https://github.com/Himanshu9604/github-profile-summary-cards)
-[![GitHub Stats](https://raw.githubusercontent.com/Himanshu9604/Himanshu9604/master/profile-summary-card-output/default/3-stats.svg)](https://github.com/Himanshu9604/github-profile-summary-cards)
-[![Productive Time](https://raw.githubusercontent.com/Himanshu9604/Himanshu9604/master/profile-summary-card-output/default/4-productive-time.svg)](https://github.com/Himanshu9604/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/Himanshu9604/Himanshu9604/master/profile-summary-card-output/default/0-profile-details.svg)](https://github.com/Himanshu9604/Himanshu9604)
+[![](https://raw.githubusercontent.com/Himanshu9604/Himanshu9604/master/profile-summary-card-output/default/1-repos-per-language.svg)](https://github.com/Himanshu9604/Himanshu9604)
+[![](https://raw.githubusercontent.com/Himanshu9604/Himanshu9604/master/profile-summary-card-output/default/2-most-commit-language.svg)](https://github.com/Himanshu9604/Himanshu9604)
+[![](https://raw.githubusercontent.com/Himanshu9604/Himanshu9604/master/profile-summary-card-output/default/3-stats.svg)](https://github.com/Himanshu9604/Himanshu9604)
+[![](https://raw.githubusercontent.com/Himanshu9604/Himanshu9604/master/profile-summary-card-output/default/4-productive-time.svg)](https://github.com/Himanshu9604/Himanshu9604)
 
