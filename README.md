@@ -1,5 +1,8 @@
 <h1 align="center">𝐇𝐞𝐲! 👋, 𝐈 𝐚𝐦 ...𝐇𝐢𝐦𝐚𝐧𝐬𝐡𝐮 𝐘𝐚𝐝𝐚𝐯</h1>
-<div align="center"> <img width="900"  src="https://raw.githubusercontent.com/Himanshu9604/Himanshu9604/main/github-header-image.png"> </div>
+<!-- <div align="center"> <img width="900"  src="https://raw.githubusercontent.com/Himanshu9604/Himanshu9604/main/github-header-image.png"> </div> -->
+<img align="center" alt="Coding" width="900" src="<img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
+">
+
 <h3 align="center">A Passionate MERN Stack Developer from India</h3>
 <!-- <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"> -->
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
