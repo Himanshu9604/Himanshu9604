@@ -37,24 +37,10 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Himanshu9604&limit=5&theme=flat&combine_all_yearly_contributions=true)
 
-<div id="github-summary"></div>
-<script>
-  // Function to fetch GitHub data and populate the summary
-  async function fetchGitHubSummary() {
-    const response = await fetch('https://api.github.com/users/your-Himanshu9604');
-    const data = await response.json();
+## GitHub Summary
 
-    const summaryDiv = document.getElementById('github-summary');
-    summaryDiv.innerHTML = `
-      <h3>GitHub Summary:</h3>
-      <p>Total Public Repositories: ${data.public_repos}</p>
-      <p>Followers: ${data.followers}</p>
-      <p>Following: ${data.following}</p>
-      <!-- You can add more information as needed -->
-    `;
-  }
-
-  // Call the function to fetch and display GitHub summary
-  fetchGitHubSummary();
-</script>
-
+[![Profile Details](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/default/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![Repos per Language](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/default/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![Most Commit Language](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/default/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![GitHub Stats](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/default/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![Productive Time](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/default/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
