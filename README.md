@@ -1,5 +1,5 @@
  
- <img align="center" width="900vw" src="https://user-images.githubusercontent.com/40719899/205479251-ffba5354-583f-491b-a1ef-ce919083e2b1.gif">
+ <img align="center" width="900%" src="https://user-images.githubusercontent.com/40719899/205479251-ffba5354-583f-491b-a1ef-ce919083e2b1.gif">
 <h1 align="center">𝐇𝐞𝐲! 👋, 𝐈 𝐚𝐦 ...𝐇𝐢𝐦𝐚𝐧𝐬𝐡𝐮 𝐘𝐚𝐝𝐚𝐯</h1>
 <!-- <div align="center"> <img width="900"  src="https://raw.githubusercontent.com/Himanshu9604/Himanshu9604/main/github-header-image.png"> </div> -->
 
