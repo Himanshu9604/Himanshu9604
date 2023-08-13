@@ -45,25 +45,27 @@
 <br>
 
 <div align="center">
-  <a href="https://github-readme-stats.vercel.app/api?username=himanshu9604&show_icons=true&theme=react">
-    <img src="https://github-readme-stats.vercel.app/api?username=himanshu9604&show_icons=true&theme=react" alt="Overall Stats">
-  </a>
+  <div>
+    <a href="https://github-readme-stats.vercel.app/api?username=himanshu9604&show_icons=true&theme=highcontrast">
+      <img src="https://github-readme-stats.vercel.app/api?username=himanshu9604&show_icons=true&theme=highcontrast" alt="Overall Stats">
+    </a>
+  </div>
+  
+  <div>
+    <a href="https://github-readme-streak-stats.herokuapp.com/?user=himanshu9604&theme=highcontrast">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=himanshu9604&theme=highcontrast" alt="GitHub Streak">
+    </a>
+  </div>
+  
+  <div>
+    <a href="https://github-contributor-stats.vercel.app/api?username=Himanshu9604&limit=5&theme=highcontrast&hide_border=true">
+      <img src="https://github-contributor-stats.vercel.app/api?username=Himanshu9604&limit=5&theme=highcontrast&hide_border=true" alt="Top Contributed Repositories">
+    </a>
+  </div>
 </div>
 
 <div align="center">
-  <a href="https://github-readme-streak-stats.herokuapp.com/?user=himanshu9604&theme=react">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=himanshu9604&theme=react" alt="GitHub Streak">
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://github-contributor-stats.vercel.app/api?username=Himanshu9604&limit=5&theme=react&hide_border=true">
-    <img src="https://github-contributor-stats.vercel.app/api?username=Himanshu9604&limit=5&theme=react&hide_border=true" alt="Top Contributed Repositories">
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshu9604&layout=compact&theme=react">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshu9604&layout=compact&theme=react" alt="Top Languages">
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshu9604&layout=compact&theme=highcontrast">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshu9604&layout=compact&theme=highcontrast" alt="Top Languages">
   </a>
 </div>
